@@ -5,7 +5,7 @@ public class Greeting {
         System.out.println("Hi Bazel Build Test!");
 	    System.out.println("This is newly added.To test the build");
         System.out.println("Atempt to new build with new change");
-	System.out.println("Check Bazel new Build");
+	    System.out.println("Check Bazel new Build 2");
 
     }
 }
